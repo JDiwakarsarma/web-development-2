@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset= "utf-8">
+<meta name = "viewport" content="width device - width, initial - scale = 1">
+<title></title>
+</head>
+<body>
+
+<p> hello sharma ji bhopal bagsewaniya</p>
+<p><b>hello sharma ji bhopal bagsewaniya</b></p>
+<p><i>hello sharma ji bhopal bagssewaniya</i></p>
+<p><u>hello sharma ji bhopal bagsewaniya</u></p>
+
+<p align= "center">hello sharma ji bhopal bagsewaniya </p>
+<p align = "right">hello sharma ji bhopal bagsewaniya </p>
+
+<p><font size = "7" color="red"> hello sharma ji bhopal bagsewaniya </p>
+</body>
+</html>
